@@ -1,7 +1,6 @@
 ## DDoS Defense: A Multiclass and Multidimensional Detection System with Diverse Machine Learning Models
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rakibnsajib/DDoS-Defense-A-Multiclass-and-Multidimensional-Detection-System-with-Diverse-Machine-Learning-Models/blob/main/code.ipynb)
-![Build Status](https://img.shields.io/github/workflow/status/rakibnsajib/DDoS-Defense-A-Multiclass-and-Multidimensional-Detection-System-with-Diverse-Machine-Learning-Models/CI)
 ![License](https://img.shields.io/github/license/rakibnsajib/DDoS-Defense-A-Multiclass-and-Multidimensional-Detection-System-with-Diverse-Machine-Learning-Models)
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue)
 ![Stars](https://img.shields.io/github/stars/rakibnsajib/DDoS-Defense-A-Multiclass-and-Multidimensional-Detection-System-with-Diverse-Machine-Learning-Models)
